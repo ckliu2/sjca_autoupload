@@ -1,0 +1,18 @@
+{
+  "name": "autouplaod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "handbrake-js": "^4.0.3",
+    "video-converter": "^1.0.0",
+    "vimeo": "^2.1.1"
+  }
+}
